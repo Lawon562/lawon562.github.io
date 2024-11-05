@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9443a74e3ead0d50",
+        "id": "50ccea58ab0f82be",
         "type": "tabs",
         "children": [
           {
-            "id": "a672251f16a11c8e",
+            "id": "8ad71a1b02dae302",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-11-04-강의계획서.md",
+                "file": "_posts/2024-11-05-XR.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-05-XR"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-11-04-강의계획서.md",
+                "file": "_posts/2024-11-05-XR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2024-11-05-XR의 백링크"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-11-04-강의계획서.md",
+                "file": "_posts/2024-11-05-XR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2024-11-05-XR의 나가는 링크"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-11-04-강의계획서.md"
-              }
+                "file": "_posts/2024-11-05-XR.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024-11-05-XR 개요"
             }
           }
         ]
@@ -146,9 +162,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a672251f16a11c8e",
+  "active": "8ad71a1b02dae302",
   "lastOpenFiles": [
     "_posts/2024-11-04-강의계획서.md",
+    "_posts/2024-11-05-XR.md",
+    "faq.md",
     "Welcome.md"
   ]
 }
