@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-11-05-XR.md",
+                "file": "_posts/2024-11-05-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-05-XR"
+              "title": "2024-11-05-"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "35a7a14203ab185b",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-11-05-XR.md",
+                "file": "_posts/2024-11-05-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-11-05-XR의 백링크"
+              "title": "2024-11-05-의 백링크"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-11-05-XR.md",
+                "file": "_posts/2024-11-05-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2024-11-05-XR의 나가는 링크"
+              "title": "2024-11-05-의 나가는 링크"
             }
           },
           {
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-11-05-XR.md"
+                "file": "_posts/2024-11-05-.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-05-XR 개요"
+              "title": "2024-11-05- 개요"
             }
           }
         ]
@@ -165,7 +166,7 @@
   "active": "8ad71a1b02dae302",
   "lastOpenFiles": [
     "_posts/2024-11-04-강의계획서.md",
-    "_posts/2024-11-05-XR.md",
+    "_posts/2024-11-05-.md",
     "faq.md",
     "Welcome.md"
   ]
