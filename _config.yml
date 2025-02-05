@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 라원의 개발 블로그 # the main title
+title: 라원의 로그 # the main title
 
 tagline: Lawon562 # it will display as the subtitle
 
@@ -29,7 +29,7 @@ github:
   username: lawon562 # change to your GitHub username
 
 twitter:
-  username: 이라원 # change to your Twitter username
+  username: lawonxrl4b # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -95,10 +95,11 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+#cdn: "https://chirpy-img.netlify.app"
+cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/peeps-avatar-alpha.png"
+avatar: /assets/img/peeps-avatar-alpha.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
