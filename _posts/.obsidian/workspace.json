@@ -20,8 +20,31 @@
               "icon": "lucide-file",
               "title": "2025-02-05-test-doc"
             }
+          },
+          {
+            "id": "b5b250de8de8048c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "634f0fd7b6c983f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,8 +96,19 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
+          },
+          {
+            "id": "a52c0159e5d7f13c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,14 +196,21 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b94489a1f31e4c46",
+  "active": "a52c0159e5d7f13c",
   "lastOpenFiles": [
-    "sample--text-and-typography.md",
-    "sample--getting-started.md",
+    "sample/sample--text-and-typography.md",
     "2025-02-05-test-doc.md",
-    "sample--write-a-new-post.md"
+    "Vault.md",
+    "sample/sample.md",
+    "sample",
+    "Tags",
+    "sample/sample--getting-started.md",
+    "sample/sample--write-a-new-post.md"
   ]
 }
