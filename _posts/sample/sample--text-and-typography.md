@@ -92,6 +92,7 @@ Moon
 | Alfreds Futterkiste          | Maria Anders     | Germany |
 | Island Trading               | Helen Bennett    |      UK |
 | Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
+|                              |                  |         |
 
 ## Links
 
