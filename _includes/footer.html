@@ -12,9 +12,9 @@
     <time>{{ 'now' | date: '%Y' }}</time>
 
     {% if site.social.links %}
-      <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+      <a href="{{ site.social.links[0] }}">{{ site.github.username }}</a>.
     {% else %}
-      <em class="fst-normal">{{ site.social.name }}</em>.
+      <em class="fst-normal">{{ site.github.username }}</em>.
     {% endif %}
 
     {% if site.data.locales[include.lang].copyright.brief %}
@@ -28,7 +28,7 @@
     {% endif %}
   </p>
 
-  <p>
+  <!--<p>
     {%- capture _platform -%}
       <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
     {%- endcapture -%}
@@ -42,8 +42,8 @@
         target="_blank"
         rel="noopener"
       >Chirpy</a>
-    {%- endcapture -%}
+    {%- endcapture -%}-
 
-    {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
+    {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}-->
   </p>
 </footer>
