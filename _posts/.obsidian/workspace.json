@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-06-프로그래밍과 C#.md",
+                "file": "2025-02-06-Creative-Programming-And-Unity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-06-프로그래밍과 C#"
+              "title": "2025-02-06-Creative-Programming-And-Unity"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "b5b250de8de8048c",
   "lastOpenFiles": [
-    "sample/sample--text-and-typography.md",
     "2025-02-06-프로그래밍과 C#.md",
+    "2025-02-06-Creative-Programming-And-Unity.md",
+    "sample/sample--text-and-typography.md",
     "sample/sample--write-a-new-post.md",
     "sample/sample--getting-started.md",
     "Tags/#c",
