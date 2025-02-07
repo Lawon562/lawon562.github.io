@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://lawon562.github.io/sitemap.xml
